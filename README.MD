@@ -23,6 +23,9 @@
 - addressbook with online sync (carddav)
   - Also link GPG- and SMIME-Keys here
   - Check for existing cipher keys
+- Localy remove any encryption and separate signatures
+- Keep original content on server or backup
+- check hash if server version has changed
 
 No informations about the client or the sender.
 
