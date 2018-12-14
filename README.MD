@@ -25,3 +25,31 @@
   - Check for existing cipher keys
 
 No informations about the client or the sender.
+
+
+
+## List
+
+- OpenPGP
+- SMIME
+- Attachments
+  - AntiVirus
+  - Upload to Server by creating a Link
+- Spam-Filter
+- Adressbook
+  - E-Mail
+  - Keys
+  - Name
+- Export
+  - settings
+  - keys
+  - mails
+  - attachments
+  - backup
+- Show mail source code
+- drop invalid mail headers
+- for windows and linux
+- imap, pop and smtp
+- no information leaks about user and client
+- localy encrypted data (AES)
+- keys without password but securely stored localy
